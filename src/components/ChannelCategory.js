@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { RiArrowDropDownLine } from 'react-icons/ri';
 import ChatButton from './ChatButton';
 
-function ChatCategory(props) {
+function ChannelCategory(props) {
 
     const [open, setOpen] = useState(true);
 
@@ -25,10 +25,10 @@ function ChatCategory(props) {
             {
                 open &&
                 <div>
-                    <ChatButton isDM chatName="politono11"/>
-                    <ChatButton isDM chatName="ikerlpz11"/>
-                    <ChatButton isDM chatName="lili"/>
-                    <ChatButton isDM chatName="mohamed"/>
+                    <ChatButton chatName="general"/>
+                    <ChatButton chatName="general"/>
+                    <ChatButton chatName="general"/>
+                    <ChatButton chatName="general"/>
                 </div>
             }
         </div>
@@ -36,4 +36,4 @@ function ChatCategory(props) {
     )
 }
 
-export default ChatCategory
+export default ChannelCategory
