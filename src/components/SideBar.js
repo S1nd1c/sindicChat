@@ -1,14 +1,13 @@
 import React from 'react'
-import tLogo from "../img/sindicLogoTransparent.png"
+import tLogo from "../img/white-logo.png"
 import pPhoto from "../img/profile-photo.jpg"
 import ChatList from './ChatList'
 
 function SideBar() {
   return (
     <div className="relative w-64 h-full bg-purple-700 flex flex-col select-none">
-        <div className="logoContainer w-full h-24 bg-red-300 flex items-center">
-            <img src={tLogo} className="w-32 h-auto"></img>
-            <p className="font-bold text-xl text-gray-100">SindicChat</p>
+        <div className="logoContainer w-full h-40 flex justify-center items-center">
+            <img src={tLogo} className="w-auto h-full"></img>
         </div>
         <ChatList />
         <div className="absolute bottom-0 w-full h-16 border-t-2 border-violet-400">

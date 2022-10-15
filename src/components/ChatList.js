@@ -9,7 +9,7 @@ function ChatList() {
     const privateMessages = useRef(null);
 
   return (
-    <div className='w-full h-full mt-2'>
+    <div className='w-full h-full'>
        <ChannelCategory categoryName="CANALES PÚBLICOS" />
        <ChannelCategory categoryName="CANALES PRIVADOS" />
        <ChatCategory categoryName="MENSAJES PRIVADOS" />
