@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chat.sindic.xyz/static/css/main.5d7ae360.css",
+    "main.js": "/chat.sindic.xyz/static/js/main.058f03da.js",
+    "static/media/profile-photo.jpg": "/chat.sindic.xyz/static/media/profile-photo.a3705e30c0d7933c414b.jpg",
+    "static/media/sindicLogoTransparent.png": "/chat.sindic.xyz/static/media/sindicLogoTransparent.703d54dfa37409fc6da3.png",
+    "index.html": "/chat.sindic.xyz/index.html",
+    "main.5d7ae360.css.map": "/chat.sindic.xyz/static/css/main.5d7ae360.css.map",
+    "main.058f03da.js.map": "/chat.sindic.xyz/static/js/main.058f03da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d7ae360.css",
+    "static/js/main.058f03da.js"
+  ]
+}
