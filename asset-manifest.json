@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5c486af.css",
-    "main.js": "/static/js/main.b1e199f4.js",
-    "static/media/profile-photo.jpg": "/static/media/profile-photo.a3705e30c0d7933c414b.jpg",
-    "static/media/white-logo.png": "/static/media/white-logo.2d8123347675814c4c63.png",
-    "index.html": "/index.html",
-    "main.e5c486af.css.map": "/static/css/main.e5c486af.css.map",
-    "main.b1e199f4.js.map": "/static/js/main.b1e199f4.js.map"
+    "main.css": "/s1nd1c.github.io/sindicChat/static/css/main.e5c486af.css",
+    "main.js": "/s1nd1c.github.io/sindicChat/static/js/main.5944a146.js",
+    "static/media/profile-photo.jpg": "/s1nd1c.github.io/sindicChat/static/media/profile-photo.a3705e30c0d7933c414b.jpg",
+    "static/media/white-logo.png": "/s1nd1c.github.io/sindicChat/static/media/white-logo.2d8123347675814c4c63.png",
+    "index.html": "/s1nd1c.github.io/sindicChat/index.html",
+    "main.e5c486af.css.map": "/s1nd1c.github.io/sindicChat/static/css/main.e5c486af.css.map",
+    "main.5944a146.js.map": "/s1nd1c.github.io/sindicChat/static/js/main.5944a146.js.map"
   },
   "entrypoints": [
     "static/css/main.e5c486af.css",
-    "static/js/main.b1e199f4.js"
+    "static/js/main.5944a146.js"
   ]
 }
